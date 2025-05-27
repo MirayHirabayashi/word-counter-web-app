@@ -15,7 +15,7 @@ A clean and functional Word Counter web application built with **React**. It hel
 ## 📦 Tech Stack
 
 - **Frontend**: React (with Hooks)
-- **Styling**: CSS / Tailwind CSS (optional)
+- **Styling**: CSS / Tailwind CSS
 - **Hosting**: (planned) GitHub Pages / Vercel / Netlify
 
 ## 🛠️ Installation
