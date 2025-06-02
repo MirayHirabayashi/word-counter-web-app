@@ -1,6 +1,5 @@
 import React from 'react'
 import WordCharacterCounter from './WordCharacterCounter'
-import './App.css'
 
 function App() {
 
